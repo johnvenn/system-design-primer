@@ -52,14 +52,14 @@
 * [面向对象设计的面试题，**含解答**](#面向对象设计的面试问题及解答)
 * [其它的系统设计面试题](#其它的系统设计面试题)
 
-## 抽认卡
+## 学习记忆卡（Anki Flashcards)
 
 <p align="center">
   <img src="http://i.imgur.com/zdCAkB3.png">
   <br/>
 </p>
 
-这里提供的[抽认卡堆](https://apps.ankiweb.net/)使用间隔重复的方法，帮助你记忆关键的系统设计概念。
+这里提供的[学习记忆卡](https://apps.ankiweb.net/)使用间隔重复的方法，帮助你记忆关键的系统设计概念。
 
 * [系统设计的卡堆](resources/flash_cards/System%20Design.apkg)
 * [系统设计的练习卡堆](resources/flash_cards/System%20Design%20Exercises.apkg)
