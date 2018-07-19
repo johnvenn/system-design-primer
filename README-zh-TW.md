@@ -41,7 +41,7 @@
 * [物件導向設計問題與**解答**](#物件導向設計面試問題與解答)
 * [其他的系統設計面試問題](#其他的系統設計面試問題)
 
-## 學習單字卡
+## 學習單字卡（Anki Flashcard）
 
 <p align="center">
   <img src="http://i.imgur.com/zdCAkB3.png">
